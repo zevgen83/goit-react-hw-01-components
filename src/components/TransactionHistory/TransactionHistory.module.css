@@ -1,0 +1,20 @@
+.transactionHistory {
+    width: 70%;    
+    text-align: center;
+    border-collapse: collapse;    
+    border-radius: 3px;
+    border: 2px solid grey;
+}
+
+.headTable {
+    background-color: rgb(18, 221, 221);    
+}
+
+.elTable {
+    width: 250px;
+    border: 2px solid gray;
+    padding: 10px 20px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+}

@@ -1,0 +1,14 @@
+.cellTable {
+    border: 2px solid grey;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: gray;    
+}
+
+.rowTable:nth-child(2n+1) {
+    background-color: white;
+}
+
+.rowTable:nth-child(2n) {
+    background-color: rgb(240, 236, 236);
+}
